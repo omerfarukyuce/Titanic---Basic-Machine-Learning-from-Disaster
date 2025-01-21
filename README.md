@@ -41,3 +41,8 @@ This project serves as an excellent example for those looking to gain practical 
 
 ## 📄 License
 This project is licensed under the MIT License. For more information, check the [LICENSE](LICENSE) file.
+
+## 🔍 Code And Kaggle Link
+Project: [titanic.ipynb](https://github.com/omerfarukyuce/Titanic---Basic-Machine-Learning-from-Disaster)
+
+Kaggle: [Titanic Basice Machine Learning](https://github.com/omerfarukyuce/stroke-prediction-machine-learning)
