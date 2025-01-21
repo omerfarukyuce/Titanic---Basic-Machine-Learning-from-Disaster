@@ -46,3 +46,6 @@ This project is licensed under the MIT License. For more information, check the 
 Project: [titanic.ipynb](https://github.com/omerfarukyuce/Titanic---Basic-Machine-Learning-from-Disaster/blob/main/titanic.ipynb)
 
 Kaggle: [Titanic Basice Machine Learning](https://www.kaggle.com/code/merfarukyce/titanic-basic-machine-learning-from-disaster)
+
+## 📊 Datasets
+Datasets: [Datasets](https://www.kaggle.com/competitions/titanic/data)
